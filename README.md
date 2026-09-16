@@ -6,6 +6,7 @@ Catalogo consultabile - Economia del Neanderthal
 
 Catalogo. Scaffale CC0. Opere già registrate DOI (di regola CC BY-SA 4.0).
 
+
 > Autorità è la custodia del logos.  
 > Potere è la cattura del polemos.
 
@@ -40,6 +41,8 @@ Multidisciplinare con simboli PC:
 - Ω Entelechia/concrescenza
 
 - https://doi.org/10.5281/zenodo.22645188
+
+- - [Anteprima economia del Neanderthal Paracelso (PDF)](economia-del-neanderthal-polemos.pdf)
 
 - ## Progetti consultabili
 
