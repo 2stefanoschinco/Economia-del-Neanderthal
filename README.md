@@ -2,7 +2,7 @@
 Catalogo consultabile - Economia del Neanderthal 
 # Economia del Neanderthal
 
-Catalogo. Scaffale CC0. Opere sui DOI (di regola CC BY-SA 4.0).
+Catalogo. Scaffale CC0. Opere già registrate DOI (di regola CC BY-SA 4.0).
 
 > Autorità è la custodia del logos.  
 > Potere è la cattura del polemos.
@@ -15,26 +15,26 @@ Possibilità ∞ ≠ matematica lineare $¥£
 :-)   CERCHIO DEL FUOCO   (-:
  Arché←|Entelechia|→Kratos
  https://zenodo.org/communities/cechio_del_fuoco
-        (^_^)   Prensione ~♪
-       /  Φ  \  Phantasiai~ ∑+Ψ
-      |  / \  | Polemos ~♥
-       \_\_/_/  Concrescenza~∞
-+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*
+        (^_^)   'Prensione ~♪'
+       /  Φ  \  'Phantasiai~ ∑+Ψ'
+      |  / \  | 'Polemos ~♥'
+       \_\_/_/  'Concrescenza~∞'
+
 https://github.com/Cerchio-del-fuoco-economia-Paracelso
               .---.
          o---/  |  \---o
-          \ /  \|/  \ /   <-- bilancia Paracelso 
+          \ /  \|/  \ /   <-- equilibrio Paracelso 
            V   / \   V
               /                     Logos     (-: prehistoric economist :-)
 
 Tutta l'orchestra di strumenti & logos:
 > https://orcid.org/0009-0006-1081-6355
 Multidisciplinare con simboli PC:
-- `Φ` filosofia / logos
-- `$` economia
+- `Φ` 'filosofia' / logos
+- `$` economia /socioeconomica 
 - `∑` matematica / sistemi
-- `Ψ` psiche / phantasiai
-- `--\_/--` bilancia Paracelso 
+- `Ψ` psiche / 'phantasiai'
+- `--\_/--` ricetta Paracelso 
 - Ω Entelechia/concrescenza
 
 - https://doi.org/10.5281/zenodo.22645188
