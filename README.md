@@ -1,5 +1,7 @@
 # Economia-del-Neanderthal
 Catalogo consultabile - Economia del Neanderthal 
+- [Anteprima , presentazione (zip)](economia-del-neanderthal.zip)
+- 
 # Economia del Neanderthal
 
 Catalogo. Scaffale CC0. Opere già registrate DOI (di regola CC BY-SA 4.0).
