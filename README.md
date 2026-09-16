@@ -1,6 +1,7 @@
 # Economia-del-Neanderthal
 Catalogo consultabile - Economia del Neanderthal 
-- [Anteprima , presentazione (zip)](economia-del-neanderthal.zip)
+
+- - [anteprima economia del Neanderthal Paracelso (PDF)](economia-del-neanderthal-polemos.pdf)
 - 
 # Economia del Neanderthal
 
@@ -42,7 +43,7 @@ Multidisciplinare con simboli PC:
 
 - https://doi.org/10.5281/zenodo.22645188
 
-- - [Anteprima economia del Neanderthal Paracelso (PDF)](economia-del-neanderthal-polemos.pdf)
+ - [Anteprima , presentazione (zip)](economia-del-neanderthal.zip)
 
 - ## Progetti consultabili
 
