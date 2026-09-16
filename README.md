@@ -7,11 +7,7 @@ Catalogo. Scaffale CC0. Opere sui DOI (di regola CC BY-SA 4.0).
 > Autorità è la custodia del logos.  
 > Potere è la cattura del polemos.
 
-![Nati, acqua, campi](01-nati-acqua-campi.png)
-
-![Sotto, dentro, sopra](02-sotto-dentro-sopra.png)
-
-![Stella o buco nero](03-stella-o-buco-nero.jpg)
+![logos phantasiai polemos concrescenza](IMG-20260913-WA6807.jpg)
 
 Verità ≠realtà, ricchezza≠benessere
 Possibilità ∞ ≠ matematica lineare $¥£
@@ -23,14 +19,13 @@ Possibilità ∞ ≠ matematica lineare $¥£
        /  Φ  \  Phantasiai~ ∑+Ψ
       |  / \  | Polemos ~♥
        \_\_/_/  Concrescenza~∞
-+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/
++-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*/+-*
 https://github.com/Cerchio-del-fuoco-economia-Paracelso
               .---.
          o---/  |  \---o
           \ /  \|/  \ /   <-- bilancia Paracelso 
            V   / \   V
-              /   \
-      Logos     (-: prehistoric economist :-)
+              /                     Logos     (-: prehistoric economist :-)
 
 Tutta l'orchestra di strumenti & logos:
 > https://orcid.org/0009-0006-1081-6355
